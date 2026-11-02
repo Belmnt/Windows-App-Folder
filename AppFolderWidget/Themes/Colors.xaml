@@ -1,0 +1,24 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- FONDO DEL WIDGET -->
+    <SolidColorBrush x:Key="WidgetBackgroundBrush" Color="#CC1E1E1E"/>
+    
+    <!-- BARRA SUPERIOR -->
+    <SolidColorBrush x:Key="TitleBarBackgroundBrush" Color="#33FFFFFF"/>
+    
+    <!-- TEXTO PRINCIPAL -->
+    <SolidColorBrush x:Key="PrimaryTextBrush" Color="White"/>
+
+    <!-- ESTADOS DEL BOTÓN ⋮ -->
+    <SolidColorBrush x:Key="ButtonHoverBrush" Color="#33FFFFFF"/>
+    <SolidColorBrush x:Key="ButtonPressedBrush" Color="#88373737"/>
+    
+    <!-- ESTADOS DEL TILE (ITEM DE APP) -->
+    <SolidColorBrush x:Key="ItemHoverBrush" Color="#22FFFFFF"/>
+    <SolidColorBrush x:Key="ItemSelectedBrush" Color="#44FFFFFF"/>
+
+    <!-- PLACEHOLDER DEL ICONO (TEMPORAL) -->
+    <SolidColorBrush x:Key="ItemPlaceholderBrush" Color="#55FFFFFF"/>
+
+</ResourceDictionary>
